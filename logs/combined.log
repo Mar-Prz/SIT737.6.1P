@@ -1,0 +1,5 @@
+{"level":"info","message":"New undefined operation requested: 4 undefined\n       5","service":"calculator-microservice"}
+{"level":"info","message":"New add operation requested: 5 add\n       1","service":"calculator-microservice"}
+{"level":"info","message":"New add operation requested: 2 add\n       7","service":"calculator-microservice"}
+{"level":"info","message":"New add operation requested: 3 add 5","service":"calculator-microservice"}
+{"level":"error","message":"Cannot multiply by zero","service":"calculator-microservice"}
